@@ -1,2 +1,3 @@
 # Data-Analysis-in-Excel
 This Excel workbook contains data analysis and data cleaning procedures that I undertook to make a responsive Excel dashboard. The sidebar on the left work and can redirect you to the data analysis sheet where you'll see the steps I took to clean and process the data. I used my knowledge in pivot tables, formatting and Excel formulas to clean and make visual guides for the dashboard. If this workbook helped you don't forget to give it a star and follow me :)
+Find the link to the dashboard [HERE](https://drive.google.com/file/d/1kdCeh9kOYDwBfLM8cJwStIMvxMRnqnzH/view?usp=drive_web)
